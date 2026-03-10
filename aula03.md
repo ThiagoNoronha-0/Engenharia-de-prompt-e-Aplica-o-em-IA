@@ -1,1 +1,1 @@
-
+A conclusão que eu tive fazendo o trabalho que a divisão de tokens influência diretamente na resposta da IA quando fiz perguntas, dependendo da temperatura da pergunta havia respostas diferentes e caso fosse pedido pra ela fazer de forma que pensasse igual a certos exemplos apresentados ela me respondia de forma diferente 
